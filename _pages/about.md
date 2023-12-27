@@ -24,7 +24,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One paper was accepted by the [AAAI 2024](https://aaai.org/aaai-conference/) -->
+- *2023.12*: &nbsp;🎉🎉 One paper was accepted by the [AAAI 2024](https://aaai.org/aaai-conference/)
 <!-- - *2023.12*: &nbsp; I am visiting Imperial Colledge London now (11.2023-12.2023). -->
 - *2023.11*: &nbsp; I am going to serve as a TPC member of IEEE the 7th International Conference on Big Data and Artificial Intelligence [(BDAI 2024)](http://www.bdai.net/).
 <!-- *2023.10*: &nbsp;🎉🎉 One paper about LLM was accepted by the [Journal of Artificial Intelligence Research] -->
@@ -98,7 +98,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
-- Min Hu**Bin Liu**, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
+- Min Hu, **Bin Liu**, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
 - **Bin Liu**, Guosheng Yin. [Graphmax for Text Generation](). **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing**, 210 (2023): 109062.
 - Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 33, no. 11, pp. 6346-6359, Nov. 2022.
