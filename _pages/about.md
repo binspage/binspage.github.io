@@ -33,7 +33,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 📐 Teaching Experience
-I teach **Multivariate Statistical Analysis(多元统计分析)** this semester.
+I teach **最优化理论 II(Optimization Theory)** and **General Linear Model** this semester.
 
 [slides & code](https://github.com/binspage/multiVariateAnaCourse)
 
@@ -50,7 +50,7 @@ I teach **Multivariate Statistical Analysis(多元统计分析)** this semester.
 | 统计学习 | 18'Fall   |    最优化理论 I |19',20',21',22'Fall|              深度学习  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
 | 机器学习     |18',20'Fall|   最优化理论 II |20', 21', 22'Spring, 21'Fall|     自然语言处理|21'Spring|
-| Python 编程       |19'Fall|   数据科学实战      |20'Fall|                       ||
+| Python 编程       |19'Fall|   数据科学实战      |20'Fall|            Multivariate Statistical Analysis(多元统计分析)           |23'Fall|
 | 数据科学基础      |19',20'Fall|   机器学习导论   |20'Fall|   ||
     
 # 📝 Publications 
