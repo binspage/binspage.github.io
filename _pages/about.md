@@ -24,7 +24,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 One paper was accepted by the [AAAI 2024](https://aaai.org/aaai-conference/)
+<!-- - *2023.12*: &nbsp;🎉🎉 One paper was accepted by the [AAAI 2024](https://aaai.org/aaai-conference/)
 <!-- - *2023.12*: &nbsp; I am visiting Imperial Colledge London now (11.2023-12.2023). -->
 - *2023.11*: &nbsp; I am going to serve as a TPC member of IEEE the 7th International Conference on Big Data and Artificial Intelligence [(BDAI 2024)](http://www.bdai.net/).
 <!-- *2023.10*: &nbsp;🎉🎉 One paper about LLM was accepted by the [Journal of Artificial Intelligence Research] -->
@@ -33,9 +33,9 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 📐 Teaching Experience
-I teach **最优化理论 II(Optimization Theory)** and **General Linear Model** this semester.
+I teach **最优化理论 II(Optimization Theory II)** and **General Linear Model** this semester.
 
-[slides & code](https://github.com/binspage/multiVariateAnaCourse)
+<!-- [slides & code](https://github.com/binspage/multiVariateAnaCourse)-->
 
 ## Courses taught:
 
@@ -85,7 +85,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 
 ## Conference Papers
-
+- Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
 - **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China, pp. 6076-6084.
 - Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada, pp. 8819–8827.
 - Zhuo Tan, **Bin Liu***, Guosheng Yin. [Asymmetric Self-Supervised Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10021033/). **IEEE International Conference on Big Data**, Osaka, Japan, 2022, pp. 1369-1376.
@@ -127,7 +127,8 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](https://github.com/), Hong Kong, China.
   
 # 💬 Invited Talks
-- *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海. 
+- *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
+- *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
