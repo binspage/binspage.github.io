@@ -115,8 +115,8 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
 # 🎓 Educations
 - *2013.09 - 2017.12*, University of Electronic Science and Technology of China, Computer Science PhD.  
-- *2015.09 - 2019.06*, University of Electronic Science and Technology of China, Computer Science Mphil.
-- *2004.09 - 2008.09*, Liaoning University of Technology, Bachelor of Computational Mathematics
+- *2008.09 - 2011.06*, University of Electronic Science and Technology of China, Computer Science Mphil.
+- *2004.09 - 2008.06*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
 # 🏫 Visiting
 - - *2016.6 - 2017.6*, University of British Columbia, visiting student.
