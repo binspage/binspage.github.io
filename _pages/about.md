@@ -85,7 +85,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 
 ## Preprint ##
-- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1]). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
+- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning]([https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1]). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
 
 
 ## Conference Papers
