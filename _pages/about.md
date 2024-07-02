@@ -33,7 +33,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 📐 Teaching Experience
-I teach **最优化理论 II(Optimization Theory II)** and **General Linear Model** this semester.
+I will teach **最优化理论 I(Optimization Theory I)** next semester.
 
 <!-- [slides & code](https://github.com/binspage/multiVariateAnaCourse)-->
 
@@ -42,16 +42,16 @@ I teach **最优化理论 II(Optimization Theory II)** and **General Linear Mode
 <!--
 | Statistical Learning | 18'Fall   |    Optimization Theory I |19',20',21',22'Fall|              Deep Learning  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
-| Machine Learning     |18',20'Fall|   Optimization Theory II |20', 21', 22'Spring, 21'Fall|     Natural Language Processing|21'Spring|
+| Machine Learning     |18',20'Fall|   Optimization Theory II |20', 21', 22'Spring, 21'Fall, 24'Spring|     Natural Language Processing|21'Spring|
 | Python Programming       |19'Fall|   Data Science in Action      |20'Fall|                       ||
 | Foundations of Data Science      |19',20'Fall|   Introduction to Machine Learning    |20'Fall|   ||
 -->
 
 | 统计学习 | 18'Fall   |    最优化理论 I |19',20',21',22'Fall|              深度学习  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
-| 机器学习     |18',20'Fall|   最优化理论 II |20', 21', 22'Spring, 21'Fall|     自然语言处理|21'Spring|
+| 机器学习     |18',20'Fall|   最优化理论 II |20', 21', 22'Spring, 21'Fall, 24'Spring|     自然语言处理|21'Spring|
 | Python 编程       |19'Fall|   数据科学实战      |20'Fall|            Multivariate Statistical Analysis(多元统计分析)           |23'Fall|
-| 数据科学基础      |19',20'Fall|   机器学习导论   |20'Fall|   ||
+| 数据科学基础      |19',20'Fall|   机器学习导论   |20'Fall|  General Linear Model(广义线性模型) |24'Spring|
     
 # 📝 Publications 
 
