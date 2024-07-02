@@ -86,6 +86,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
 ## Preprint ##
 - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning]([https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1]). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
+- Qiang Liu, Zhizhong Tan, Siyang Liu, Min Hu, **Bin Liu** and Wenyong Wang. [Interpret How ESG Affects Industrial Value Extension using Asymmetric GNNs]([https://ssrn.com/abstract=4715337]). SSRN Electronic Journal (2024), http://dx.doi.org/10.2139/ssrn.4715337
 
 
 ## Conference Papers
