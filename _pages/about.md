@@ -84,6 +84,10 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 </div>
 
+##Preprint##
+- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1]). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
+
+
 ## Conference Papers
 - Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
 - **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China, pp. 6076-6084.
