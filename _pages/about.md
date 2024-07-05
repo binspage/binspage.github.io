@@ -33,7 +33,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 📐 Teaching Experience
-I will teach **最优化理论 I(Optimization Theory I)** next semester.
+I will teach **最优化理论 I(Optimization Theory I)** and **统计学导论(The Introduction of Statistics)** next semester.
 
 <!-- [slides & code](https://github.com/binspage/multiVariateAnaCourse)-->
 
