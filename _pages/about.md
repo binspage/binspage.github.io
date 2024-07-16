@@ -87,10 +87,11 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 ## Preprints ##
 - Hu, Min, Zhizhong Tan, **Bin Liu**, and Guosheng Yin. [Futures quantitative investment with heterogeneous continual graph neural network](https://arxiv.org/abs/2303.16532). **arXiv** preprint arXiv:2303.16532 (2023).
 - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning]([https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1]). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
-- Qiang Liu, Zhizhong Tan, Siyang Liu, Min Hu, **Bin Liu** and Wenyong Wang. [Interpret How ESG Affects Industrial Value Extension using Asymmetric GNNs]([https://ssrn.com/abstract=4715337]). **SSRN Electronic Journal** (2024), http://dx.doi.org/10.2139/ssrn.4715337
+- Qiang Liu, Zhizhong Tan, Siyang Liu, Min Hu, **Bin Liu** and Wenyong Wang. [Interpret How ESG Affects Industrial Value Extension using Asymmetric GNNs]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715337]). **SSRN Electronic Journal** (2024), http://dx.doi.org/10.2139/ssrn.4715337
 
 
 ## Conference Papers
+- Jinjin Li, **Bin Liu**, Chengyan Liu, Hongli Zhang. [Predicting Housing Transaction with Common Covariance GNNs](https://ijcai24.org/ai-for-social-good-special-track-accepted-papers/). **IJCAI**, 2024, Jeju, Korea.
 - Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
 - **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China, pp. 6076-6084.
 - Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada, pp. 8819–8827.
