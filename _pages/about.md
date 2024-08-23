@@ -91,7 +91,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
 
 ## Conference Papers
-- Jinjin Li, **Bin Liu**, Chengyan Liu, Hongli Zhang. [Predicting Housing Transaction with Common Covariance GNNs](https://www.ijcai.org/proceedings/2024/810). **IJCAI**, 2024, Jeju, Korea, pp. 7323-7330.
+- Jinjin Li, **Bin Liu***, Chengyan Liu, Hongli Zhang. [Predicting Housing Transaction with Common Covariance GNNs](https://www.ijcai.org/proceedings/2024/810). **IJCAI**, 2024, Jeju, Korea, pp. 7323-7330.
 - Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
 - **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China, pp. 6076-6084.
 - Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada, pp. 8819–8827.
