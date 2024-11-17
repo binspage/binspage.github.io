@@ -24,6 +24,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper was accepted by the [KDD 2025](https://kdd2025.kdd.org/)
 - *2024.9*: &nbsp;🎉🎉 One paper was accepted by the [ICDM 2024](https://icdm2024.org/)
 - *2024.5*: &nbsp;🎉🎉 One paper was accepted by the [IJCAI 2024](https://ijcai24.org/)
 <!-- - *2023.12*: &nbsp; I am visiting Imperial Colledge London now (11.2023-12.2023). -->
