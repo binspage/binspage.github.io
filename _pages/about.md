@@ -62,9 +62,9 @@ I will teach **最优化理论 I(Optimization Theory I)** and **统计学导论(
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">medRxiv</div><img src='images/ASD2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ASD diagnosis with GNNs](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/)
+[ASD diagnosis and pathogenic analysis](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/)
   
-Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
+Lu Wei, 
   
 [**Project**](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/) 
 - Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
