@@ -74,11 +74,11 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/imrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Machine learning for IMRT](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1)
+[Machine learning for IMRT](https://openreview.net/forum?id=DgGY5u8DNM#discussion)
   
 **Bin Liu***,  Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin
   
-[**Project**](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1) 
+[**Project**](https://openreview.net/forum?id=DgGY5u8DNM#discussion) 
 - We have designed a functional deep reinforcement learning algorithm for automatic radiotherapy treatment planning that fully takes into account the complex scenarios of radiotherapy, and its performance is close to meeting clinical requirements.  
 </div>
 </div>
