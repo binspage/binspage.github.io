@@ -144,6 +144,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - *2004.09 - 2008.06*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
 # 🏫 Visiting
+- - *2024.7 - 2024.9*, The University of Hong Kong, visiting scholar. 
 - - *2023.11 - 2023.12*, Imperial College of London, visiting scholar. 
 - - *2016.6 - 2017.6*, University of British Columbia, visiting student.
 
