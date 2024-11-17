@@ -59,7 +59,7 @@ I will teach **最优化理论 I(Optimization Theory I)** and **统计学导论(
 
 ## GNN in Medical Science
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ASD diagnosis with GNNs](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/)
@@ -71,7 +71,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/imrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Machine learning for IMRT](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1)
