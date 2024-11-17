@@ -62,12 +62,24 @@ I will teach **最优化理论 I(Optimization Theory I)** and **统计学导论(
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ASD diagnosis with GNNs](https://openreview.net/pdf?id=PVU-k24tPb)
+[ASD diagnosis with GNNs](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/)
   
 Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
   
-[**Project**](https://openreview.net/pdf?id=PVU-k24tPb) 
+[**Project**](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/) 
 - Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Machine learning for IMRT](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1)
+  
+**Bin Liu***,  Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin
+  
+[**Project**](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1) 
+- We have designed a functional deep reinforcement learning algorithm for automatic radiotherapy treatment planning that fully takes into account the complex scenarios of radiotherapy, and its performance is close to meeting clinical requirements.  
 </div>
 </div>
 
