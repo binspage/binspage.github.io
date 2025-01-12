@@ -24,12 +24,12 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥 News
+- *2025.1*: &nbsp; I am going to serve as a TPC member of IEEE the 8th International Conference on Big Data and Artificial Intelligence [(BDAI 2025)](http://www.bdai.net/).
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)
 - *2024.11*: &nbsp;🎉🎉 One paper was accepted by [KDD 2025](https://kdd2025.kdd.org/)
 - *2024.9*: &nbsp;🎉🎉 One paper was accepted by [ICDM 2024](https://icdm2024.org/)
 - *2024.5*: &nbsp;🎉🎉 One paper was accepted by [IJCAI 2024](https://ijcai24.org/)
 <!-- - *2023.12*: &nbsp; I am visiting Imperial Colledge London now (11.2023-12.2023). -->
-- *2023.11*: &nbsp; I am going to serve as a TPC member of IEEE the 7th International Conference on Big Data and Artificial Intelligence [(BDAI 2024)](http://www.bdai.net/).
 <!-- *2023.10*: &nbsp;🎉🎉 One paper about LLM was accepted by the [Journal of Artificial Intelligence Research] -->
 <!-- (https://www.jair.org/index.php/jair/issue/view/1167).-->
 <!-- *2023.09*: &nbsp;🎉🎉 [第16届中国R会议](https://mp.weixin.qq.com/s/cUqMvRR2NPQ4vRf4pFPf3g)在成都西南财经大学举办. -->
