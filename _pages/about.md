@@ -23,7 +23,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# 🔥🔥 News
 - *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **Financial Innovation**.
 - *2025.1*: &nbsp; I am going to serve as an Area Chair for KDD 2025.
 - *2025.1*: &nbsp; I am going to serve as a TPC member of IEEE the 8th International Conference on Big Data and Artificial Intelligence [(BDAI 2025)](http://www.bdai.net/).
