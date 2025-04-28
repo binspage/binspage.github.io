@@ -61,7 +61,7 @@ I will teach **最优化理论 I(Optimization Theory I)** and **统计学导论(
     
 # 📝 Publications 
 
-## GNN in Medical Science
+## Medical Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ASD2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,7 +88,7 @@ Lu Wei
 </div>
 
 
-## GNN in F&E
+## Economics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/industryChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
