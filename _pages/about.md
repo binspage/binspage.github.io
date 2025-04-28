@@ -28,7 +28,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 - *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **Financial Innovation**.
 - *2025.1*: &nbsp; I am going to serve as an Area Chair for KDD 2025.
 - *2025.1*: &nbsp; I am going to serve as a TPC member of IEEE the 8th International Conference on Big Data and Artificial Intelligence [(BDAI 2025)](http://www.bdai.net/).
-- *2024.12*: &nbsp;🎉🎉 One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)
+<!-- - *2024.12*: &nbsp;🎉🎉 One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)
 - *2024.11*: &nbsp;🎉🎉 One paper was accepted by [KDD 2025](https://kdd2025.kdd.org/)
 - *2024.9*: &nbsp;🎉🎉 One paper was accepted by [ICDM 2024](https://icdm2024.org/)
 - *2024.5*: &nbsp;🎉🎉 One paper was accepted by [IJCAI 2024](https://ijcai24.org/)
