@@ -103,7 +103,6 @@ Lu Wei
 </div>
 
 ## Preprints ##
-- Hu, Min, Zhizhong Tan, **Bin Liu**, and Guosheng Yin. [Futures quantitative investment with heterogeneous continual graph neural network](https://arxiv.org/abs/2303.16532). **arXiv** preprint arXiv:2303.16532 (2023).
 - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060.
 - Qiang Liu, Zhizhong Tan, Siyang Liu, Min Hu, **Bin Liu**, Wenyong Wang. [Interpret How ESG Affects Industrial Value Extension using Asymmetric GNNs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4715337). **SSRN Electronic Journal** (2024), http://dx.doi.org/10.2139/ssrn.4715337
 - Lu Wei, Yi Huang, Guosheng Yin, Fode Zhang, Manxue Zhang, **Bin Liu***. [Diagnosis and Pathogenic Analysis of Autism Spectrum Disorder Using Fused Brain Connection Graph](https://arxiv.org/abs/2410.07138). **arXiv** preprint arXiv:2410.07138 (2024).
@@ -126,6 +125,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
+- Hu, Min, Zhizhong Tan, **Bin Liu**, and Guosheng Yin. [Graph Portfolio: High-Frequency Factor Predictors via Heterogeneous Continual GNNs](https://ieeexplore.ieee.org/abstract/document/10981815). **IEEE Transactions on Knowledge and Data Engineering** doi: 10.1109/TKDE.2025.3566111 (2025).
 - Min Hu, **Bin Liu***, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
 - **Bin Liu**, Guosheng Yin. [Graphmax for Text Generation](). **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing**, 210 (2023): 109062.
