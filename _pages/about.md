@@ -111,7 +111,7 @@ Lu Wei
 
 
 ## Conference Papers
-- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://dl.acm.org/doi/10.1145/3690624.3709430). **KDD**, 2025, Toronto, ON, Canada, pp. 2426 - 2435.
+- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://dl.acm.org/doi/10.1145/3690624.3709430). **KDD**, 2025, Toronto, ON, Canada, pp. 2426-2435.
 - Zhizhong Tan, Min Hu, **Bin Liu***, Guosheng Yin. [Futures Quantitative Investment with Heterogeneous Continual Graph Neural Networks](https://icdm2024.org/accepted_papers/). **ICDM**, 2024, Abu Dhabi, UAE, pp. 851-856
 - Jinjin Li, **Bin Liu***, Chengyan Liu, Hongli Zhang. [Predicting Housing Transaction with Common Covariance GNNs](https://www.ijcai.org/proceedings/2024/810). **IJCAI**, 2024, Jeju, Korea, pp. 7323-7330.
 - Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
