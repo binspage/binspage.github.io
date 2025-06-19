@@ -111,7 +111,7 @@ Lu Wei
 
 
 ## Conference Papers
-- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://openreview.net/forum?id=DgGY5u8DNM#discussion). **KDD**, 2025, Toronto, ON, Canada.
+- **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://dl.acm.org/doi/10.1145/3690624.3709430). **KDD**, 2025, Toronto, ON, Canada, pp. 2426 - 2435.
 - Zhizhong Tan, Min Hu, **Bin Liu***, Guosheng Yin. [Futures Quantitative Investment with Heterogeneous Continual Graph Neural Networks](https://icdm2024.org/accepted_papers/). **ICDM**, 2024, Abu Dhabi, UAE, pp. 851-856
 - Jinjin Li, **Bin Liu***, Chengyan Liu, Hongli Zhang. [Predicting Housing Transaction with Common Covariance GNNs](https://www.ijcai.org/proceedings/2024/810). **IJCAI**, 2024, Jeju, Korea, pp. 7323-7330.
 - Jiujun He, **Bin Liu**, Guosheng Yin. [Enhancing Semi-supervised Domain Adaptation via Effective Target Labeling]([https://ojs.aaai.org/index.php/AAAI/article/download/29130/30138]). **AAAI**, 2024, Vancouver, Canada, pp. 12385-12393.
@@ -127,7 +127,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
-- Min Hu, Zhizhong Tan, **Bin Liu***, and Guosheng Yin. [Graph Portfolio: High-Frequency Factor Predictors via Heterogeneous Continual GNNs](https://ieeexplore.ieee.org/abstract/document/10981815). **IEEE Transactions on Knowledge and Data Engineering** doi: 10.1109/TKDE.2025.3566111 (2025).
+- Min Hu, Zhizhong Tan, **Bin Liu***, and Guosheng Yin. [Graph Portfolio: High-Frequency Factor Predictors via Heterogeneous Continual GNNs](https://ieeexplore.ieee.org/abstract/document/10981815). **IEEE Transactions on Knowledge and Data Engineering**, vol. 37, no. 7, pp. 4104-4116, July 2025, doi: 10.1109/TKDE.2025.3566111. 
 - Min Hu, **Bin Liu***, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
 - **Bin Liu**, Guosheng Yin. [Graphmax for Text Generation](). **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing**, 210 (2023): 109062.
