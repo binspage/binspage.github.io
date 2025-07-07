@@ -60,7 +60,7 @@ I will teach **Optimization Theory I (最优化理论 I)** and **The Statistical
 | 数据科学基础      |19',20'Fall|   机器学习导论   |20'Fall|  General Linear Model(广义线性模型) |24'Spring|
 |The Introduction of Statitics | 24' Fall|
     
-# 📝 Publications 
+# 🔬 Research
 
 ## AI for Medical Science
 
@@ -102,6 +102,8 @@ Lu Wei
 - The digital development of the industrial chain attracts more and more attention from researchers and policymakers. One of the critical issues is how the efficiency of the industrial chain is affected by external factors, such as macroeconomic policy, government regulation or monetary policy, international political factors, internal factors, such as microeconomic driver factors, and so on.  In this project, we conduct a quantitative analysis of the development of the industry chain with GNNs. 
 </div>
 </div>
+
+# 📝 Publications
 
 ## Preprints ##
 - Chunhong Ye, **Bin Liu***. [Exploring Asset Pricing Through Industrial Chain Dynamics: Insights from Graph Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5244473). **SSRN Electronic Journal** (2025)
