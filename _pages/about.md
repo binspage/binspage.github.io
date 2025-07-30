@@ -128,7 +128,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
-- Zhizhong Tan, Siyang Liu, Qiang Liu, Min Hu, Wenyong Wang, **Bin Liu***. [Modeling ESG-driven industrial value chain dynamics using directed graph neural networks](). **Financial Innovation** (2025), http://dx.doi.org/10.1186/s40854-025-00783-y
+- Zhizhong Tan, Siyang Liu, Qiang Liu, Min Hu, Xiang Zhang, Wenyong Wang, **Bin Liu***. [Modeling ESG-driven industrial value chain dynamics using directed graph neural networks](). **Financial Innovation** (2025), http://dx.doi.org/10.1186/s40854-025-00783-y
 - Min Hu, Zhizhong Tan, **Bin Liu***, and Guosheng Yin. [Graph Portfolio: High-Frequency Factor Predictors via Heterogeneous Continual GNNs](https://ieeexplore.ieee.org/abstract/document/10981815). **IEEE Transactions on Knowledge and Data Engineering**, vol. 37, no. 7, pp. 4104-4116, July 2025, doi: 10.1109/TKDE.2025.3566111. 
 - Min Hu, **Bin Liu***, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
 - **Bin Liu**, Guosheng Yin. [Graphmax for Text Generation](). **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
