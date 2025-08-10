@@ -24,8 +24,8 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥🔥 News
-- *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **IEEE Transactions on Knowledge and Data Engineering**.
-- *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **Financial Innovation**.
+<!-- - *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **IEEE Transactions on Knowledge and Data Engineering**.-->
+<!-- - *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **Financial Innovation**. -->
 <!-- - *2025.1*: &nbsp; I am going to serve as an Area Chair for KDD 2025.-->
 <!-- - *2025.1*: &nbsp; I am going to serve as a TPC member of IEEE the 8th International Conference on Big Data and Artificial Intelligence [(BDAI 2025)](http://www.bdai.net/).-->
 <!-- - *2024.12*: &nbsp;🎉🎉 One paper was accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)-->
@@ -166,6 +166,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
