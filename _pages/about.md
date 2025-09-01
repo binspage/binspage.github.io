@@ -130,6 +130,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
+- **Bin Liu**, Li Haolong, Linshuang Kang. [Tangency Portfolios Using Graph Neural Networks](https://doi.org/10.1016/j.neunet.2025.108043). **Neural Networks**,  vol. 108043, 2025, https://doi.org/10.1016/j.neunet.2025.108043
 - Zhizhong Tan, Siyang Liu, Qiang Liu, Min Hu, Xiang Zhang, Wenyong Wang, **Bin Liu***. [Modeling ESG-driven industrial value chain dynamics using directed graph neural networks](https://link.springer.com/article/10.1186/s40854-025-00783-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250807&utm_content=10.1186%2Fs40854-025-00783-y). **Financial Innovation**,  vol. 11, 113, 2025, http://dx.doi.org/10.1186/s40854-025-00783-y
 - Min Hu, Zhizhong Tan, **Bin Liu***, and Guosheng Yin. [Graph Portfolio: High-Frequency Factor Predictors via Heterogeneous Continual GNNs](https://ieeexplore.ieee.org/abstract/document/10981815). **IEEE Transactions on Knowledge and Data Engineering**, vol. 37, no. 7, pp. 4104-4116, July 2025, doi: 10.1109/TKDE.2025.3566111. 
 - Min Hu, **Bin Liu***, Guosheng Yin. [Multi-Site and Multi-Pollutant Air Quality Data Modeling](https://www.mdpi.com/2071-1050/16/1/165/xml). **Sustainability**, vol. 16(1), 165. 2024.
@@ -168,6 +169,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
