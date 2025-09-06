@@ -163,13 +163,14 @@ Lu Wei
 
 # 💻 Employment
 - *2018.04 - (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
-- *2025.03 - 2025.09*, Reseach Associate at School of Computing and Data Science (HKUCDS), [The University of Hong Kong](https://github.com/), Hong Kong, China.
-- *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](), Hong Kong, China.
+- *2025.03 - 2025.09*, Research Associate at School of Computing and Data Science (HKUCDS), [The University of Hong Kong](https://www.cds.hku.hk/), Hong Kong, China.
+- *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](https://saasweb.hku.hk/), Hong Kong, China.
   
 # 💬 Invited Talks
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
