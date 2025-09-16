@@ -111,6 +111,7 @@ Lu Wei
 <!-- - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://www.medrxiv.org/content/10.1101/2024.06.23.24309060v1). **medRxiv**, 2024.06.23.24309060, doi: https://doi.org/10.1101/2024.06.23.24309060. -->
 - Lu Wei, Yi Huang, Guosheng Yin, Fode Zhang, Manxue Zhang, **Bin Liu***. [Diagnosis and Pathogenic Analysis of Autism Spectrum Disorder Using Fused Brain Connection Graph](https://arxiv.org/abs/2410.07138). **arXiv** preprint arXiv:2410.07138 (2024).
 - Ling Xiang, Quan Hu, Xiang Zhang, Wei Lan, **Bin Liu***. [Graph Neural Poisson Models for Supply Chain Relationship Forecasting](https://arxiv.org/abs/2508.12044). **arXiv** preprint arXiv:2508.12044 (2025).
+- Yuedi Zhang, Zhixiang Xia, Guosheng Yin, **Bin Liu***. [Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034) **arXiv** preprint arXiv:2509.11034 (2025)
 
 
 ## Conference Papers
@@ -170,6 +171,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
