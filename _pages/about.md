@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-I am an Associate Professor in the Center of Statistical Research, School of Statistics and Data Science at the Southwestern University of Finance and Economics. My research interest includes Graph Neural Networks and its applications in Economics and Medical Science.
+I am an full Professor in the Center of Statistical Research, School of Statistics and Data Science at the Southwestern University of Finance and Economics. My research interest includes Graph Neural Networks and its applications in Economics and Medical Science.
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -171,6 +171,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
