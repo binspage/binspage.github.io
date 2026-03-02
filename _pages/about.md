@@ -42,9 +42,9 @@ I am a full Professor in the Center of Statistical Research, School of Statistic
 
 
 # 📐 Teaching Experience
-I will teach **Optimization Theory I (最优化理论 I)** and **The Statistical Fundation of Data Science (数据科学统计基础)** next semester.
+I will teach **Optimization Theory II (最优化理论 II)** this semester.
 
-<!-- [slides & code](https://github.com/binspage/multiVariateAnaCourse)-->
+<!-- [slides & code](https://github.com/binspage/multiVariateAnaCourse) and **The Statistical Fundation of Data Science (数据科学统计基础)** next -->
 
 ## Courses taught:
 
@@ -175,6 +175,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
