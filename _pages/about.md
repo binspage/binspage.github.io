@@ -24,7 +24,7 @@ I am a full Professor in the Center of Statistical Research, School of Statistic
 
 
 # 🔥🔥 News
-- *2026.2*: &nbsp; 🎉🎉 One paper was accepted by **npj Digital Medicine**.
+- *2026.2*: &nbsp; 🎉🎉 One paper was published on **npj Digital Medicine**.
 - *2026.1*: &nbsp; 🎉🎉 One paper was published on **Frontiers in Oncology**.  
 <!-- - *2025.9*: &nbsp; 🎉🎉 One paper was accepted by **Neural Networks**.-->
 <!-- - *2025.4*: &nbsp; 🎉🎉 One paper was accepted by **IEEE Transactions on Knowledge and Data Engineering**.-->
@@ -133,6 +133,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
+- Zhang Mingyi, Bin Liu, Zhaojuan Qin, Yuedi Zhang, Zhiqian Li, Ruizhi Liu, Zhixiang Xia, Qiongxian Long, Jia Xu, Xiaoli Mou, Liansha Tang, Hongshuai Li, Wenjun Meng, Ai Zheng, Yangmei Shen Jiyan Liu [Distinction between primary and metastatic mucinous ovarian carcinoma from histopathology images using deep learning](https://www.nature.com/articles/s41746-026-02459-y). **npj Digital Medicine**, 2026.
 - Zhang Mingyi, Xia Zhixiang, Liu Ruizhi, Qin Zhaojuan, Li Hongshuai, Xu Jia, Long Qiongxian, Shen Yangmei, ***Liu Bin**, Liu Jiyan [Histopathology images-based deep learning prediction of prognosis in primary mucinous ovarian carcinoma](https://doi.org/10.3389/fonc.2026.1704217). **Frontiers in Oncology**, vol. 16, 2026.
 - **Bin Liu**, Li Haolong, Linshuang Kang. [Tangency Portfolios Using Graph Neural Networks](https://doi.org/10.1016/j.neunet.2025.108043). **Neural Networks**,  vol. 193, 108043, 2025, https://doi.org/10.1016/j.neunet.2025.108043
 - Zhizhong Tan, Siyang Liu, Qiang Liu, Min Hu, Xiang Zhang, Wenyong Wang, **Bin Liu***. [Modeling ESG-driven industrial value chain dynamics using directed graph neural networks](https://link.springer.com/article/10.1186/s40854-025-00783-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250807&utm_content=10.1186%2Fs40854-025-00783-y). **Financial Innovation**,  vol. 11, 113, 2025, http://dx.doi.org/10.1186/s40854-025-00783-y
@@ -174,6 +175,7 @@ Lu Wei
 - *2024.07*, Interpret How External Shocks Affect Industrial Chain using Graph Machine Learning, The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing.
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 
 
 
