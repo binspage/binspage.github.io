@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-I am a full Professor in the Center of Statistical Research, School of Statistics and Data Science at the Southwestern University of Finance and Economics. My research interests span Graph Learning and Agentic Reasoning, with applications in Medical Science and Economics.  I also serve as Co-Founder and CTO of a power trading company.
+I am a full Professor in the Center of Statistical Research, School of Statistics and Data Science at the Southwestern University of Finance and Economics. My research interests span Graph Learning and Agentic Reasoning, with applications in Medical Science and Economics.  I am Co-Founder of a power trading company and serve as CTO there.
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
