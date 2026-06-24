@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right; margin-bottom: 20px; padding: 10px 0; border-bottom: 1px solid #eee;">
-  <a href="/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #007bff; color: white; background: #007bff;">English</a>
-  <a href="/cn/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #ddd; color: #666; background: #f8f9fa;">中文</a>
-</div>
-
 ## About Me
 
 I am a full Professor in the Center of Statistical Research, School of Statistics and Data Science at the Southwestern University of Finance and Economics. My research interests span Graph Learning and Agentic Reasoning, with applications in Medical Science and Economics. I am Co-Founder of a power trading company and serve as CTO there.
