@@ -115,7 +115,7 @@ Lu Wei
 - Lu Wei, Yi Huang, Guosheng Yin, Fode Zhang, Manxue Zhang, **Bin Liu***. [Diagnosis and Pathogenic Analysis of Autism Spectrum Disorder Using Fused Brain Connection Graph](https://arxiv.org/abs/2410.07138). **arXiv** preprint arXiv:2410.07138 (2024).
 - Ling Xiang, Quan Hu, Xiang Zhang, Wei Lan, **Bin Liu***. [Graph Neural Poisson Models for Supply Chain Relationship Forecasting](https://arxiv.org/abs/2508.12044). **arXiv** preprint arXiv:2508.12044 (2025).
 - Yuedi Zhang, Zhixiang Xia, Guosheng Yin, **Bin Liu***. [Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034). **arXiv** preprint arXiv:2509.11034 (2025)
-- Tingting Luo, Jie Zhang, Manxue Zhang, Lei Li, Shengnan Zhao, Zhaozhi Yang, Yuchu Jiang, **Bin Liu***, Yi Huang. [Age-related individual-specific subspace of autism spectrum disorder based on common orthogonal basis extraction algorithm improves the accuracy of clinical symptoms prediction](https://doi.org/10.21203/rs.3.rs-8832166/v1). 23 February 2026, PREPRINT (Version 1) available at Research Square
+
 
 ## Conference Papers
 - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin, Guosheng Yin. [Automatic radiotherapy treatment planning with deep functional reinforcement learning](https://dl.acm.org/doi/10.1145/3690624.3709430). **KDD**, 2025, Toronto, ON, Canada, pp. 2426-2435.
@@ -134,6 +134,7 @@ Lu Wei
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
+- Tingting Luo, Jie Zhang, Manxue Zhang, Lei Li, Shengnan Zhao, Zhaozhi Yang, Yuchu Jiang, **Bin Liu***, Yi Huang. [Age-related individual-specific subspace of autism spectrum disorder based on common orthogonal basis extraction algorithm improves the accuracy of clinical symptoms prediction](https://link.springer.com/article/10.1186/s12888-026-08172-0). 19 June 2026, BMC Psychiatry (2026)
 - Zhang Mingyi, Bin Liu, Zhaojuan Qin, Yuedi Zhang, Zhiqian Li, Ruizhi Liu, Zhixiang Xia, Qiongxian Long, Jia Xu, Xiaoli Mou, Liansha Tang, Hongshuai Li, Wenjun Meng, Ai Zheng, Yangmei Shen, Jiyan Liu. [Distinction between primary and metastatic mucinous ovarian carcinoma from histopathology images using deep learning](https://www.nature.com/articles/s41746-026-02459-y). **npj Digital Medicine**, 2026.
 - Zhang Mingyi, Xia Zhixiang, Liu Ruizhi, Qin Zhaojuan, Li Hongshuai, Xu Jia, Long Qiongxian, Shen Yangmei, ***Liu Bin**, Liu Jiyan [Histopathology images-based deep learning prediction of prognosis in primary mucinous ovarian carcinoma](https://doi.org/10.3389/fonc.2026.1704217). **Frontiers in Oncology**, vol. 16, 2026.
 - **Bin Liu**, Li Haolong, Linshuang Kang. [Tangency Portfolios Using Graph Neural Networks](https://doi.org/10.1016/j.neunet.2025.108043). **Neural Networks**,  vol. 193, 108043, 2025, https://doi.org/10.1016/j.neunet.2025.108043
