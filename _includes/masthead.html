@@ -10,6 +10,17 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        
+        <!-- Language Switcher -->
+        <div class="lang-switcher" style="margin-left: auto; display: flex; align-items: center; padding: 0 15px;">
+          {% if page.permalink == '/' or page.permalink == '/about/' or page.permalink == '/about.html' %}
+            <a href="/" style="display: inline-block; padding: 4px 12px; margin: 0 3px; border-radius: 15px; text-decoration: none; font-size: 13px; font-weight: 500; border: 1px solid #007bff; color: white; background: #007bff;">EN</a>
+            <a href="/cn/" style="display: inline-block; padding: 4px 12px; margin: 0 3px; border-radius: 15px; text-decoration: none; font-size: 13px; font-weight: 500; border: 1px solid #ddd; color: #666; background: #f8f9fa;">中</a>
+          {% else %}
+            <a href="/" style="display: inline-block; padding: 4px 12px; margin: 0 3px; border-radius: 15px; text-decoration: none; font-size: 13px; font-weight: 500; border: 1px solid #ddd; color: #666; background: #f8f9fa;">EN</a>
+            <a href="/cn/" style="display: inline-block; padding: 4px 12px; margin: 0 3px; border-radius: 15px; text-decoration: none; font-size: 13px; font-weight: 500; border: 1px solid #007bff; color: white; background: #007bff;">中</a>
+          {% endif %}
+        </div>
       </nav>
     </div>
   </div>
