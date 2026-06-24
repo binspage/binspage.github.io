@@ -5,11 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<div style="text-align: right; margin-bottom: 20px; padding: 10px 0; border-bottom: 1px solid #eee;">
-  <a href="/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #ddd; color: #666; background: #f8f9fa;">English</a>
-  <a href="/cn/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #007bff; color: white; background: #007bff;">中文</a>
-</div>
-
 ## 个人简介
 
 我是西南财经大学统计与数据科学学院统计研究中心的教授。我的研究兴趣涵盖图学习与智能体推理，在医学科学和经济学领域有广泛应用。我同时是一家电力交易公司的联合创始人并担任首席技术官（CTO）。
