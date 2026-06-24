@@ -5,49 +5,10 @@ excerpt: ""
 author_profile: true
 ---
 
-&lt;!-- Language Switcher --&gt;
-&lt;div class="lang-switcher"&gt;
-  &lt;a href="/" class="lang-btn"&gt;English&lt;/a&gt;
-  &lt;a href="/cn/" class="lang-btn active"&gt;中文&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;style&gt;
-.lang-switcher {
-  text-align: right;
-  margin-bottom: 20px;
-  padding: 10px 0;
-  border-bottom: 1px solid #eee;
-}
-.lang-btn {
-  display: inline-block;
-  padding: 6px 16px;
-  margin-left: 8px;
-  border-radius: 20px;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  border: 1px solid #ddd;
-  color: #666;
-  background: #f8f9fa;
-}
-.lang-btn:hover {
-  background: #e9ecef;
-  color: #333;
-  text-decoration: none;
-}
-.lang-btn.active {
-  background: #007bff;
-  color: white;
-  border-color: #007bff;
-}
-@media (max-width: 768px) {
-  .lang-switcher {
-    text-align: center;
-    margin-top: 10px;
-  }
-}
-&lt;/style&gt;
+<div style="text-align: right; margin-bottom: 20px; padding: 10px 0; border-bottom: 1px solid #eee;">
+  <a href="/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #ddd; color: #666; background: #f8f9fa;">English</a>
+  <a href="/cn/" style="display: inline-block; padding: 6px 16px; margin-left: 8px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 500; border: 1px solid #007bff; color: white; background: #007bff;">中文</a>
+</div>
 
 ## 个人简介
 
