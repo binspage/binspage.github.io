@@ -90,6 +90,7 @@ IJCAI 2023
 
 ## 期刊论文
 
+- Zhe Cheng, **Bin Liu***. Mitigating distal interference in continual learning through locally gated Kolmogorov–Arnold networks. Neurocomputing, 134392, 2026.
 - Tingting Luo, Jie Zhang, Manxue Zhang, Lei Li, Shengnan Zhao, Zhaozhi Yang, Yuchu Jiang, **Bin Liu**\*, Yi Huang*. Age-related individual-specific subspace of autism spectrum disorder based on common orthogonal basis extraction algorithm improves the accuracy of clinical symptoms prediction. BMC Psychiatry, 2026.
 - Zhang Mingyi, Bin Liu, Zhaojuan Qin, Yuedi Zhang, Zhiqian Li, Ruizhi Liu, Zhixiang Xia, Qiongxian Long, Jia Xu, Xiaoli Mou, Liansha Tang, Hongshuai Li, Wenjun Meng, Ai Zheng, Yangmei Shen, Jiyan Liu. Distinction between primary and metastatic mucinous ovarian carcinoma from histopathology images using deep learning. **npj Digital Medicine**, 2026.
 - Zhang Mingyi, Xia Zhixiang, Liu Ruizhi, Qin Zhaojuan, Li Hongshuai, Xu Jia, Long Qiongxian, Shen Yangmei, **\*Liu Bin**, Liu Jiyan Histopathology images-based deep learning prediction of prognosis in primary mucinous ovarian carcinoma. **Frontiers in Oncology**, vol. 16, 2026.
