@@ -16,7 +16,7 @@ I am a full Professor in the Center of Statistical Research, School of Statistic
 
 - _2026.7_:   🎉🎉 One paper was accepted by **ACM MM 2026**.
 - _2026.6_:   🎉🎉 One paper was accepted by **Neurocomputing**.
-- _2026.5_:   🎉🎉 One paper was accepted by **BMC Psychiatry**.
+- _2026.5_:   🎉🎉 One paper was published on **BMC Psychiatry**.
 - _2026.2_:   🎉🎉 One paper was published on **npj Digital Medicine**.
 - _2026.1_:   🎉🎉 One paper was published on **Frontiers in Oncology**.
 
