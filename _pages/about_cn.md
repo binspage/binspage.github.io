@@ -11,7 +11,9 @@ author_profile: true
 
 ## 🔥🔥 最新动态
 
-- _2026.5_:   🎉🎉 一篇论文被 **BMC Psychiatry** 接收。
+- _2026.7_:   🎉🎉 一篇论文被 **ACM MM 2026** 接收。
+- _2026.6_:   🎉🎉 一篇论文被 **Neurocomputing** 接收。
+- _2026.5_:   🎉🎉 一篇论文发表在 **BMC Psychiatry**。
 - _2026.2_:   🎉🎉 一篇论文发表在 **npj Digital Medicine**。
 - _2026.1_:   🎉🎉 一篇论文发表在 **Frontiers in Oncology**。
 
