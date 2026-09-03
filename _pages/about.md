@@ -20,10 +20,12 @@ I am a full Professor in the Center of Statistical Research, School of Statistic
 - _2026.2_:   🎉🎉 One paper was published on **npj Digital Medicine**.
 - _2026.1_:   🎉🎉 One paper was published on **Frontiers in Oncology**.
 
+
 ## 📐 Teaching Experience
 
-I will teach **Optimization Theory II (最优化理论 II)** this semester.
+I will teach **Optimization Theory  (最优化理论 )** this semester.
 
+<!--
 ## Courses taught:
 
 | 统计学习| 18'Fall| 最优化理论 I| 19',20',21',22'Fall| 深度学习| 20'Fall|
@@ -33,11 +35,12 @@ I will teach **Optimization Theory II (最优化理论 II)** this semester.
 | 数据科学基础| 19',20'Fall| 机器学习导论| 20'Fall| General Linear Model(广义线性模型)| 24'Spring|
 | The Introduction of Statitics| 24' Fall| | | | |
 
+
 ## 🔬 Research
 
 ## AI for Medical Science
 
-<!-- arXiv
+ arXiv
 ASD diagnosis and pathogenic analysis
 
 Lu Wei
