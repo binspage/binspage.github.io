@@ -37,7 +37,7 @@ I will teach **Optimization Theory II (最优化理论 II)** this semester.
 
 ## AI for Medical Science
 
-arXiv
+<!-- arXiv
 ASD diagnosis and pathogenic analysis
 
 Lu Wei
@@ -64,7 +64,8 @@ Analyze Industrial Chain with GNNs
 
 **Project**
 
-- The digital development of the industrial chain attracts more and more attention from researchers and policymakers. One of the critical issues is how the efficiency of the industrial chain is affected by external factors, such as macroeconomic policy, government regulation or monetary policy, international political factors, internal factors, such as microeconomic driver factors, and so on. In this project, we conduct a quantitative analysis of the development of the industry chain with GNNs.
+- The digital development of the industrial chain attracts more and more attention from researchers and policymakers. One of the critical issues is how the efficiency of the industrial chain is affected by external factors, such as macroeconomic policy, government regulation or monetary policy, international political factors, internal factors, such as microeconomic driver factors, and so on. In this project, we conduct a quantitative analysis of the development of the industry chain with GNNs.-->
+  
 
 ## 📝 Publications
 
