@@ -76,7 +76,7 @@ IJCAI 2023
 - Yuedi Zhang, Zhixiang Xia, Guosheng Yin, **Bin Liu**\*. Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images. **arXiv** preprint arXiv:2509.11034 (2025)
 
 ## 会议论文
-- Ke Liu, Zhixiang Xia, **Bin Liu**. GHH-MIL: Geodesic Harmonic Hyper-sphere Multiple Instance Learning for Whole Slide Image Classification. **ACM MM**, 2026, Rio de Janeiro, Brazil.
+- Ke Liu, Zhixiang Xia, **Bin Liu**. GHH-MIL: Geodesic Harmonic Hyper-sphere Multiple Instance Learning for Whole Slide Image Classification. **ACM MM**, 2026, Rio de Janeiro, Brazil, pp.  6416-6424.
 - **Bin Liu**, Yu Liu, Zhiqian Li, Jianghe Xiao, Huazhen Lin, Guosheng Yin. Automatic radiotherapy treatment planning with deep functional reinforcement learning. **KDD**, 2025, Toronto, ON, Canada, pp. 2426-2435.
 - Zhizhong Tan, Min Hu, **Bin Liu**\*, Guosheng Yin. Futures Quantitative Investment with Heterogeneous Continual Graph Neural Networks. **ICDM**, 2024, Abu Dhabi, UAE, pp. 851-856
 - Jinjin Li, **Bin Liu**\*, Chengyan Liu, Hongli Zhang. Predicting Housing Transaction with Common Covariance GNNs. **IJCAI**, 2024, Jeju, Korea, pp. 7323-7330.
